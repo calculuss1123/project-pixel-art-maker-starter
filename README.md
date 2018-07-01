@@ -1,5 +1,5 @@
 # Pixel Art Maker Project
-https://github.com/calculuss1123/project-pixel-art-maker-starter.git
+https://calculuss1123.github.io/project-pixel-art-maker-starter/
 
 ## Table of Contents
 
